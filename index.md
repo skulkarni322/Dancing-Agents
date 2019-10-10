@@ -1,12 +1,12 @@
-Dancing-Agents
+							#Dancing-Agents
 
-Fall 2019 CS 6476 Computer Vision: Class Project
-Georgia Tech
+##Fall 2019 CS 6476 Computer Vision: Class Project
+##Georgia Tech
 
-Jayanta Bhowmick
-Purva Tendulkar
-Sushrut Kulkarni
-Venkata Subramanian Srinivasan
+#Jayanta Bhowmick
+#Purva Tendulkar
+#Sushrut Kulkarni
+#Venkata Subramanian Srinivasan
 
 
 Abstract:
@@ -16,19 +16,11 @@ In this project, we would like to explore if we can design reward functions that
 
 
 
-
-
-
-
-
-
-
-
-
-
 Problem Statement:
 
 To train a reinforcement learning agent to dance in sync with the beat information from a dance video(without audio). 
+
+https://github.com/skulkarni322/Dancing-Agents/issues/1#issue-504964723
 
 The 1-D representation must encapsulate the beat information of the audio to which the entity or individual is dancing in accordance with.
 
